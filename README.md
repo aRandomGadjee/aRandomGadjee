@@ -7,7 +7,7 @@
 
 ### Get in touch:
 - 📫 You can contact me (If for some unusual reason you wanted to) via my Email: J.R.McDonald@Gadjee.net (Please note, I'm riddled with ✨ADHD✨ and **will** forget to reply for months, I beg for your patience).
-- 🌐 I do have a website, **[Gadjee.net](https://gadjee.net)**, it's under construction and is currently pretty unstable but it's also just a placeholder - I am currently (slowly) working on building my own site by my own two hands as a special project.
+- 🌐 I do have a website, **[Gadjee.net](https://www.gadjee.net)**, it's under construction and is currently pretty unstable but it's also just a placeholder - I am currently (slowly) working on building my own site by my own two hands as a special project.
 <!---
 aRandomGadjee/aRandomGadjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
