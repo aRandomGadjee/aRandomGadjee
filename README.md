@@ -2,7 +2,7 @@
 
 ### About Me:
 - 👋 Hi, I’m @aRandomGadjee, but you can call me James (or Gadj).
-- 👀 I’m a full-stack dotnet developer of 8 years specialising in T-SQL, C# and JavaScript; working mainly on large-scale production CRM applications (day job) and cool but useless tools in Blazor or Vue.js (at night, when I should be asleep).
+- 👀 I’m a full-stack dotnet developer of 10 years specialising in T-SQL, C# and JavaScript; working mainly on large-scale production CRM applications (day job) and cool but useless tools in Blazor or Vue.js (at night, when I should be asleep).
 - 🥳 ***Outside of work***: I have three project cars (K8 | Kate) my 96' Mazda MX3 v6, Wendy my 93' Volvo 940T (with the LSD 🤩), and Skippy, a 2012 Suzuki Jimny (a reliable car); A cat-dad of two and a keen woodworker (with all my fingers!)
 
 ### Get in touch:
